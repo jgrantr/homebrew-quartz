@@ -3,7 +3,7 @@ require 'formula'
 class CairommQuartz < Formula
   url 'http://cairographics.org/releases/cairomm-1.8.4.tar.gz'
   homepage 'http://cairographics.org/cairomm/'
-  md5 '559afbc47484ba3fad265e38a3dafe90'
+  sha256 'c8a7a44f0490f2ee16d8024cc6cf5c1ec7ad3b900f233d150d0e189179f529ab'
 
   # patch for universal compilation from:
   # http://trac.macports.org/browser/trunk/dports/graphics/cairomm/files/patch-quartz-lp64.diff
